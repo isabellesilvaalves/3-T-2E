@@ -1,7 +1,7 @@
 :root {
-    --cor-principal:
-    --cor-secundaria:
-    --cor-destaque:
+    --cor-principal:#1676e4;
+    --cor-secundaria:#07478f;
+    --cor-destaque:#012f63;
 }
  body {
   font-family: 'chakra petch', sans-serif;
